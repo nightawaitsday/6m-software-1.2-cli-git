@@ -1,0 +1,32 @@
+.container {
+    width: 500px;
+}
+
+#flag {
+    width: 200px;
+}
+
+#flag img {
+    width: 100%;
+    border: 1px solid black;
+}
+
+h1 {
+    margin: 20px;
+}
+.section-name {
+    display: flex;
+    margin: 0 20px;
+}
+.section-name p {
+    padding-right: 20px;
+    margin: 0;
+}
+
+.section-extrainfo, .section-hobbies, .section-about {
+    margin: 0 20px;
+}
+
+.section-about {
+    max-width: 450px;
+}
